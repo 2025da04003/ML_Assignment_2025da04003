@@ -18,7 +18,7 @@ Implement, evaluate, visualize, and deploy multiple classification models for th
 https://github.com/2025da04003/ML_Assignment_2025da04003
 
 ## Live Streamlit App Link
-https://github.com/2025da04003/ML_Assignment_2025da04003
+https://ml-assignment-2025da04003.streamlit.app/
 
 ## Data cleaning performed
 1. Loaded full dataset and saved `breast_cancer_full_dataset.csv`.
