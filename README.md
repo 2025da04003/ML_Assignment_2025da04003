@@ -65,12 +65,13 @@ The following models were evaluated: Logistic Regression, Decision Tree, K-Neare
 
 ## Repository structure
 ```text
-project-folder/
+ML_Assignment_2025da04003/
 |-- app.py
 |-- requirements.txt
 |-- README.md
 |-- test_data.csv
 |-- breast_cancer_full_dataset.csv
+|-- 2025DA04003_ML Assignment 2_BITS Lab.py
 |-- model/
 |   |-- train_models.py
 |   |-- logistic_regression.joblib
@@ -91,8 +92,12 @@ project-folder/
 |   |-- roc_curves.png
 |   |-- scatter_mean_radius_texture.png
 |   |-- histogram_mean_radius.png
+|-- BITS Virtual Lab/ 
+|   |-- Screenshot_1.png 
+|   |-- Screenshot_2.png 
+|   |-- Screenshot_3.png 
+|   |-- Screenshot_4.png
 ```
-
 
 
 ## Streamlit-ready deployment notes
