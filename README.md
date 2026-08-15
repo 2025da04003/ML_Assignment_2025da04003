@@ -15,10 +15,10 @@ Implement, evaluate, visualize, and deploy multiple classification models for th
 - Requirement status: satisfies minimum 500 instances and 12 features
 
 ## c. Github Repository Link
-Replace after upload: `https://github.com/<your-username>/<your-repository-name>`
+https://github.com/2025da04003/ML_Assignment_2025da04003
 
 ## Live Streamlit App Link
-Replace after deployment: `https://<your-app-name>.streamlit.app/`
+https://github.com/2025da04003/ML_Assignment_2025da04003
 
 ## Data cleaning performed
 1. Loaded full dataset and saved `breast_cancer_full_dataset.csv`.
@@ -115,3 +115,8 @@ This package is ready for Streamlit Community Cloud deployment.
 | Display evaluation metrics | Accuracy, AUC, Precision, Recall, F1 Score, and MCC Score are shown as metric cards. |
 | Confusion matrix or classification report | Both confusion matrix and classification report are displayed for the selected model. |
 | Results of different models on test data | A comparison table evaluates all five models on the uploaded test data. |
+
+
+## BITS Virtual Lab execution screenshot
+
+- Screenshots of assignment execution on BITS Virtual Lab are attached in PDF file and also screenshots are submitted in BITS Virtual Lab folder.
